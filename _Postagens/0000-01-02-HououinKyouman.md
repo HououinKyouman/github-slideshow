@@ -2,5 +2,4 @@
 layout : título do slide
 : 'Bem-vindo ao nosso segundo slide!'
 ---
-Seu texto
-Use a seta para a esquerda para voltar!
+Teste de alteração de arquivo
